@@ -46,7 +46,7 @@ namespace number_game
             }
             else
             {
-                MessageBox.Show("Congratulations! You have guessed the number in " + count + " attempts.");
+                MessageBox.Show("Congratulations! You have guessed the number in alabala " + count + " attempts.");
             }
             label4.Text = count.ToString();
         }
