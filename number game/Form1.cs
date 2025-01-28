@@ -42,7 +42,7 @@ namespace number_game
             }
             else if (guess > number)
             {
-                MessageBox.Show("The number is less than " + guess);
+                MessageBox.Show("The number is less than A " + guess);
             }
             else
             {
